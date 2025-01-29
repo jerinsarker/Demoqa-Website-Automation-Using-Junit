@@ -7,10 +7,12 @@ To start these automated scripts, ensure the following setup:
 
 Development Environment:
 - Java Development Kit (JDK) 8 or above
-- IntelliJ IDEA 
+- IntelliJ IDEA.
+  
 Libraries/Dependencies:
 - Selenium WebDriver
-- JUnit framework
+- JUnit framework.
+  
 Browser and Driver:
 - ChromeDriver, FireFoxDriver, or any compatible browser driver.
 # Project Overview
