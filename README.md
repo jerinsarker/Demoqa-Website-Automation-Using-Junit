@@ -6,15 +6,15 @@ Website URL:https://demoqa.com
 To start these automated scripts, ensure the following setup:
 
 Development Environment:
--Java Development Kit (JDK) 8 or above.
--IntelliJ IDEA 
+- Java Development Kit (JDK) 8 or above
+- IntelliJ IDEA 
 Libraries/Dependencies:
 
--Selenium WebDriver
--JUnit framework
+- Selenium WebDriver
+- JUnit framework
 Browser and Driver:
 
--ChromeDriver, FireFoxDriver, or any compatible browser driver.
+- ChromeDriver, FireFoxDriver, or any compatible browser driver.
 # Project Overview
 The primary goal of this testing is to isolate individual code segments and verify whether they function as expected. Unit testing plays a crucial role in the development cycle, and when executed properly, it can identify early defects in the code that might be harder to detect in later testing phases.
 # Report
