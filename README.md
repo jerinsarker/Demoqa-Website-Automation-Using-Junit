@@ -16,5 +16,5 @@ Browser and Driver:
 ChromeDriver, FireFoxDriver, or any compatible browser driver.
 # Project Overview
 The primary goal of this testing is to isolate individual code segments and verify whether they function as expected. Unit testing plays a crucial role in the development cycle, and when executed properly, it can identify early defects in the code that might be harder to detect in later testing phases.
-##Report
+# Report
 ![Screenshot (329)](https://github.com/user-attachments/assets/0b1d5f8f-1a97-4468-9e1b-2528a7de6c81)
